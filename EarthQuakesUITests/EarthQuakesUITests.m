@@ -31,12 +31,9 @@
 }
 
 - (void)testViewControllerNavigation {
-    
     XCUIApplication *app = [[XCUIApplication alloc] init];
     XCUIElementQuery *tablesQuery = app.tables;
     [tablesQuery/*@START_MENU_TOKEN@*/.staticTexts[@"5km SE of Big Lake, Alaska"]/*[[".cells[@\"5km SE of Big Lake, Alaska, 1558969688712, earthquake, 1.7\"].staticTexts[@\"5km SE of Big Lake, Alaska\"]",".staticTexts[@\"5km SE of Big Lake, Alaska\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/ tap];
-   
-    
 }
 
 @end
