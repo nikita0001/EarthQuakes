@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  EarthQuakes
 //
-//  Created by Nikita Jain on 27/5/19.
+//  Created by Nikita Jain on 26/5/19.
 //  Copyright © 2019 NBN. All rights reserved.
 //
 

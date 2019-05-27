@@ -15,6 +15,79 @@
 		450A8572229C24260055AC25 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8571229C24260055AC25 /* main.m */; };
 		450A857C229C24260055AC25 /* EarthQuakesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A857B229C24260055AC25 /* EarthQuakesTests.m */; };
 		450A8587229C24260055AC25 /* EarthQuakesUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8586229C24260055AC25 /* EarthQuakesUITests.m */; };
+		450A860C229C27180055AC25 /* EarthQuakeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A860B229C27180055AC25 /* EarthQuakeTableViewCell.m */; };
+		450A860D229C27180055AC25 /* EarthQuakeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A860B229C27180055AC25 /* EarthQuakeTableViewCell.m */; };
+		450A860E229C27180055AC25 /* EarthQuakeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A860B229C27180055AC25 /* EarthQuakeTableViewCell.m */; };
+		450A8611229C27240055AC25 /* APIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8610229C27240055AC25 /* APIManager.m */; };
+		450A8612229C27240055AC25 /* APIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8610229C27240055AC25 /* APIManager.m */; };
+		450A8613229C27240055AC25 /* APIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8610229C27240055AC25 /* APIManager.m */; };
+		450A861E229C27340055AC25 /* Geometry.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8615229C27340055AC25 /* Geometry.m */; };
+		450A861F229C27340055AC25 /* Geometry.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8615229C27340055AC25 /* Geometry.m */; };
+		450A8620229C27340055AC25 /* Geometry.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8615229C27340055AC25 /* Geometry.m */; };
+		450A8621229C27340055AC25 /* GeoGraphic.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8616229C27340055AC25 /* GeoGraphic.m */; };
+		450A8622229C27340055AC25 /* GeoGraphic.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8616229C27340055AC25 /* GeoGraphic.m */; };
+		450A8623229C27340055AC25 /* GeoGraphic.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8616229C27340055AC25 /* GeoGraphic.m */; };
+		450A8624229C27340055AC25 /* Properties.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8617229C27340055AC25 /* Properties.m */; };
+		450A8625229C27340055AC25 /* Properties.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8617229C27340055AC25 /* Properties.m */; };
+		450A8626229C27340055AC25 /* Properties.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8617229C27340055AC25 /* Properties.m */; };
+		450A8627229C27340055AC25 /* Metadata.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A861A229C27340055AC25 /* Metadata.m */; };
+		450A8628229C27340055AC25 /* Metadata.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A861A229C27340055AC25 /* Metadata.m */; };
+		450A8629229C27340055AC25 /* Metadata.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A861A229C27340055AC25 /* Metadata.m */; };
+		450A862A229C27340055AC25 /* Feature.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A861D229C27340055AC25 /* Feature.m */; };
+		450A862B229C27340055AC25 /* Feature.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A861D229C27340055AC25 /* Feature.m */; };
+		450A862C229C27340055AC25 /* Feature.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A861D229C27340055AC25 /* Feature.m */; };
+		450A862F229C27520055AC25 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A862D229C27520055AC25 /* MapViewController.m */; };
+		450A8630229C27520055AC25 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A862D229C27520055AC25 /* MapViewController.m */; };
+		450A8631229C27520055AC25 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A862D229C27520055AC25 /* MapViewController.m */; };
+		450A8634229C27620055AC25 /* EarthQuakes.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8633229C27620055AC25 /* EarthQuakes.m */; };
+		450A8635229C27620055AC25 /* EarthQuakes.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8633229C27620055AC25 /* EarthQuakes.m */; };
+		450A8636229C27620055AC25 /* EarthQuakes.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8633229C27620055AC25 /* EarthQuakes.m */; };
+		450A8657229C29B40055AC25 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8649229C29B40055AC25 /* AFSecurityPolicy.m */; };
+		450A8658229C29B40055AC25 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8649229C29B40055AC25 /* AFSecurityPolicy.m */; };
+		450A8659229C29B40055AC25 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8649229C29B40055AC25 /* AFSecurityPolicy.m */; };
+		450A865A229C29B40055AC25 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864C229C29B40055AC25 /* AFURLRequestSerialization.m */; };
+		450A865B229C29B40055AC25 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864C229C29B40055AC25 /* AFURLRequestSerialization.m */; };
+		450A865C229C29B40055AC25 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864C229C29B40055AC25 /* AFURLRequestSerialization.m */; };
+		450A865D229C29B40055AC25 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864D229C29B40055AC25 /* AFURLSessionManager.m */; };
+		450A865E229C29B40055AC25 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864D229C29B40055AC25 /* AFURLSessionManager.m */; };
+		450A865F229C29B40055AC25 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864D229C29B40055AC25 /* AFURLSessionManager.m */; };
+		450A8660229C29B40055AC25 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864F229C29B40055AC25 /* AFNetworkReachabilityManager.m */; };
+		450A8661229C29B40055AC25 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864F229C29B40055AC25 /* AFNetworkReachabilityManager.m */; };
+		450A8662229C29B40055AC25 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A864F229C29B40055AC25 /* AFNetworkReachabilityManager.m */; };
+		450A8663229C29B40055AC25 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8652229C29B40055AC25 /* AFHTTPSessionManager.m */; };
+		450A8664229C29B40055AC25 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8652229C29B40055AC25 /* AFHTTPSessionManager.m */; };
+		450A8665229C29B40055AC25 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8652229C29B40055AC25 /* AFHTTPSessionManager.m */; };
+		450A8666229C29B40055AC25 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8654229C29B40055AC25 /* AFURLResponseSerialization.m */; };
+		450A8667229C29B40055AC25 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8654229C29B40055AC25 /* AFURLResponseSerialization.m */; };
+		450A8668229C29B40055AC25 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8654229C29B40055AC25 /* AFURLResponseSerialization.m */; };
+		450A867E229C29FC0055AC25 /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A866F229C29FC0055AC25 /* UIButton+AFNetworking.m */; };
+		450A867F229C29FC0055AC25 /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A866F229C29FC0055AC25 /* UIButton+AFNetworking.m */; };
+		450A8680229C29FC0055AC25 /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A866F229C29FC0055AC25 /* UIButton+AFNetworking.m */; };
+		450A8681229C29FC0055AC25 /* AFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8671229C29FC0055AC25 /* AFAutoPurgingImageCache.m */; };
+		450A8682229C29FC0055AC25 /* AFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8671229C29FC0055AC25 /* AFAutoPurgingImageCache.m */; };
+		450A8683229C29FC0055AC25 /* AFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8671229C29FC0055AC25 /* AFAutoPurgingImageCache.m */; };
+		450A8684229C29FC0055AC25 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8672229C29FC0055AC25 /* UIWebView+AFNetworking.m */; };
+		450A8685229C29FC0055AC25 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8672229C29FC0055AC25 /* UIWebView+AFNetworking.m */; };
+		450A8686229C29FC0055AC25 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8672229C29FC0055AC25 /* UIWebView+AFNetworking.m */; };
+		450A8687229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8673229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m */; };
+		450A8688229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8673229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m */; };
+		450A8689229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8673229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m */; };
+		450A868A229C29FC0055AC25 /* AFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8674229C29FC0055AC25 /* AFImageDownloader.m */; };
+		450A868B229C29FC0055AC25 /* AFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8674229C29FC0055AC25 /* AFImageDownloader.m */; };
+		450A868C229C29FC0055AC25 /* AFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8674229C29FC0055AC25 /* AFImageDownloader.m */; };
+		450A868D229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8675229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m */; };
+		450A868E229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8675229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m */; };
+		450A868F229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8675229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m */; };
+		450A8690229C29FC0055AC25 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8678229C29FC0055AC25 /* UIProgressView+AFNetworking.m */; };
+		450A8691229C29FC0055AC25 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8678229C29FC0055AC25 /* UIProgressView+AFNetworking.m */; };
+		450A8692229C29FC0055AC25 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8678229C29FC0055AC25 /* UIProgressView+AFNetworking.m */; };
+		450A8693229C29FC0055AC25 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8679229C29FC0055AC25 /* UIImageView+AFNetworking.m */; };
+		450A8694229C29FC0055AC25 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8679229C29FC0055AC25 /* UIImageView+AFNetworking.m */; };
+		450A8695229C29FC0055AC25 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A8679229C29FC0055AC25 /* UIImageView+AFNetworking.m */; };
+		450A8696229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A867C229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m */; };
+		450A8697229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A867C229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m */; };
+		450A8698229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A867C229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m */; };
+		450A86A0229C2D4A0055AC25 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 450A869F229C2D4A0055AC25 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +124,60 @@
 		450A8582229C24260055AC25 /* EarthQuakesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EarthQuakesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		450A8586229C24260055AC25 /* EarthQuakesUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EarthQuakesUITests.m; sourceTree = "<group>"; };
 		450A8588229C24260055AC25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		450A8609229C27030055AC25 /* Constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constant.h; sourceTree = "<group>"; };
+		450A860A229C27180055AC25 /* EarthQuakeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EarthQuakeTableViewCell.h; sourceTree = "<group>"; };
+		450A860B229C27180055AC25 /* EarthQuakeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EarthQuakeTableViewCell.m; sourceTree = "<group>"; };
+		450A860F229C27240055AC25 /* APIManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APIManager.h; sourceTree = "<group>"; };
+		450A8610229C27240055AC25 /* APIManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APIManager.m; sourceTree = "<group>"; };
+		450A8614229C27340055AC25 /* Geometry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Geometry.h; sourceTree = "<group>"; };
+		450A8615229C27340055AC25 /* Geometry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Geometry.m; sourceTree = "<group>"; };
+		450A8616229C27340055AC25 /* GeoGraphic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoGraphic.m; sourceTree = "<group>"; };
+		450A8617229C27340055AC25 /* Properties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Properties.m; sourceTree = "<group>"; };
+		450A8618229C27340055AC25 /* Metadata.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Metadata.h; sourceTree = "<group>"; };
+		450A8619229C27340055AC25 /* GeoGraphic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoGraphic.h; sourceTree = "<group>"; };
+		450A861A229C27340055AC25 /* Metadata.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Metadata.m; sourceTree = "<group>"; };
+		450A861B229C27340055AC25 /* Feature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Feature.h; sourceTree = "<group>"; };
+		450A861C229C27340055AC25 /* Properties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Properties.h; sourceTree = "<group>"; };
+		450A861D229C27340055AC25 /* Feature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Feature.m; sourceTree = "<group>"; };
+		450A862D229C27520055AC25 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		450A862E229C27520055AC25 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		450A8632229C27620055AC25 /* EarthQuakes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EarthQuakes.h; sourceTree = "<group>"; };
+		450A8633229C27620055AC25 /* EarthQuakes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EarthQuakes.m; sourceTree = "<group>"; };
+		450A8649229C29B40055AC25 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
+		450A864A229C29B40055AC25 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
+		450A864B229C29B40055AC25 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
+		450A864C229C29B40055AC25 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
+		450A864D229C29B40055AC25 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
+		450A864E229C29B40055AC25 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
+		450A864F229C29B40055AC25 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
+		450A8650229C29B40055AC25 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
+		450A8651229C29B40055AC25 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
+		450A8652229C29B40055AC25 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
+		450A8653229C29B40055AC25 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
+		450A8654229C29B40055AC25 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
+		450A8655229C29B40055AC25 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
+		450A8656229C29B40055AC25 /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCompatibilityMacros.h; sourceTree = "<group>"; };
+		450A866A229C29FB0055AC25 /* AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFAutoPurgingImageCache.h; sourceTree = "<group>"; };
+		450A866B229C29FB0055AC25 /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
+		450A866C229C29FB0055AC25 /* UIImage+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+AFNetworking.h"; sourceTree = "<group>"; };
+		450A866D229C29FC0055AC25 /* AFImageDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFImageDownloader.h; sourceTree = "<group>"; };
+		450A866E229C29FC0055AC25 /* UIProgressView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIProgressView+AFNetworking.h"; sourceTree = "<group>"; };
+		450A866F229C29FC0055AC25 /* UIButton+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+AFNetworking.m"; sourceTree = "<group>"; };
+		450A8670229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIActivityIndicatorView+AFNetworking.h"; sourceTree = "<group>"; };
+		450A8671229C29FC0055AC25 /* AFAutoPurgingImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFAutoPurgingImageCache.m; sourceTree = "<group>"; };
+		450A8672229C29FC0055AC25 /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
+		450A8673229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkActivityIndicatorManager.m; sourceTree = "<group>"; };
+		450A8674229C29FC0055AC25 /* AFImageDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFImageDownloader.m; sourceTree = "<group>"; };
+		450A8675229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
+		450A8676229C29FC0055AC25 /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+AFNetworking.h"; sourceTree = "<group>"; };
+		450A8677229C29FC0055AC25 /* UIRefreshControl+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIRefreshControl+AFNetworking.h"; sourceTree = "<group>"; };
+		450A8678229C29FC0055AC25 /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
+		450A8679229C29FC0055AC25 /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
+		450A867A229C29FC0055AC25 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+AFNetworking.h"; sourceTree = "<group>"; };
+		450A867B229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkActivityIndicatorManager.h; sourceTree = "<group>"; };
+		450A867C229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
+		450A867D229C29FC0055AC25 /* UIKit+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+AFNetworking.h"; sourceTree = "<group>"; };
+		450A869F229C2D4A0055AC25 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +228,16 @@
 		450A8561229C24250055AC25 /* EarthQuakes */ = {
 			isa = PBXGroup;
 			children = (
+				450A8669229C29D30055AC25 /* UIKit+AFNetworking */,
+				450A8648229C29780055AC25 /* AFNetworking */,
+				450A85B3229C25B30055AC25 /* UtilityClasses */,
+				450A85B2229C25A40055AC25 /* CustomCells */,
+				450A85B1229C25980055AC25 /* API */,
+				450A85B0229C258E0055AC25 /* Model */,
+				450A85AF229C25810055AC25 /* View */,
+				450A85AE229C25730055AC25 /* ViewModel */,
 				450A8562229C24250055AC25 /* AppDelegate.h */,
 				450A8563229C24250055AC25 /* AppDelegate.m */,
-				450A8565229C24250055AC25 /* ViewController.h */,
-				450A8566229C24250055AC25 /* ViewController.m */,
 				450A8568229C24250055AC25 /* Main.storyboard */,
 				450A856B229C24260055AC25 /* Assets.xcassets */,
 				450A856D229C24260055AC25 /* LaunchScreen.storyboard */,
@@ -118,6 +251,7 @@
 			isa = PBXGroup;
 			children = (
 				450A857B229C24260055AC25 /* EarthQuakesTests.m */,
+				450A869F229C2D4A0055AC25 /* TestViewController.m */,
 				450A857D229C24260055AC25 /* Info.plist */,
 			);
 			path = EarthQuakesTests;
@@ -130,6 +264,117 @@
 				450A8588229C24260055AC25 /* Info.plist */,
 			);
 			path = EarthQuakesUITests;
+			sourceTree = "<group>";
+		};
+		450A85AE229C25730055AC25 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				450A8632229C27620055AC25 /* EarthQuakes.h */,
+				450A8633229C27620055AC25 /* EarthQuakes.m */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		450A85AF229C25810055AC25 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				450A8565229C24250055AC25 /* ViewController.h */,
+				450A8566229C24250055AC25 /* ViewController.m */,
+				450A862E229C27520055AC25 /* MapViewController.h */,
+				450A862D229C27520055AC25 /* MapViewController.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		450A85B0229C258E0055AC25 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				450A861B229C27340055AC25 /* Feature.h */,
+				450A861D229C27340055AC25 /* Feature.m */,
+				450A8619229C27340055AC25 /* GeoGraphic.h */,
+				450A8616229C27340055AC25 /* GeoGraphic.m */,
+				450A8614229C27340055AC25 /* Geometry.h */,
+				450A8615229C27340055AC25 /* Geometry.m */,
+				450A8618229C27340055AC25 /* Metadata.h */,
+				450A861A229C27340055AC25 /* Metadata.m */,
+				450A861C229C27340055AC25 /* Properties.h */,
+				450A8617229C27340055AC25 /* Properties.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		450A85B1229C25980055AC25 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				450A860F229C27240055AC25 /* APIManager.h */,
+				450A8610229C27240055AC25 /* APIManager.m */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		450A85B2229C25A40055AC25 /* CustomCells */ = {
+			isa = PBXGroup;
+			children = (
+				450A860A229C27180055AC25 /* EarthQuakeTableViewCell.h */,
+				450A860B229C27180055AC25 /* EarthQuakeTableViewCell.m */,
+			);
+			path = CustomCells;
+			sourceTree = "<group>";
+		};
+		450A85B3229C25B30055AC25 /* UtilityClasses */ = {
+			isa = PBXGroup;
+			children = (
+				450A8609229C27030055AC25 /* Constant.h */,
+			);
+			path = UtilityClasses;
+			sourceTree = "<group>";
+		};
+		450A8648229C29780055AC25 /* AFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				450A8656229C29B40055AC25 /* AFCompatibilityMacros.h */,
+				450A864B229C29B40055AC25 /* AFHTTPSessionManager.h */,
+				450A8652229C29B40055AC25 /* AFHTTPSessionManager.m */,
+				450A8655229C29B40055AC25 /* AFNetworking.h */,
+				450A864E229C29B40055AC25 /* AFNetworkReachabilityManager.h */,
+				450A864F229C29B40055AC25 /* AFNetworkReachabilityManager.m */,
+				450A8650229C29B40055AC25 /* AFSecurityPolicy.h */,
+				450A8649229C29B40055AC25 /* AFSecurityPolicy.m */,
+				450A864A229C29B40055AC25 /* AFURLRequestSerialization.h */,
+				450A864C229C29B40055AC25 /* AFURLRequestSerialization.m */,
+				450A8651229C29B40055AC25 /* AFURLResponseSerialization.h */,
+				450A8654229C29B40055AC25 /* AFURLResponseSerialization.m */,
+				450A8653229C29B40055AC25 /* AFURLSessionManager.h */,
+				450A864D229C29B40055AC25 /* AFURLSessionManager.m */,
+			);
+			path = AFNetworking;
+			sourceTree = "<group>";
+		};
+		450A8669229C29D30055AC25 /* UIKit+AFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				450A866A229C29FB0055AC25 /* AFAutoPurgingImageCache.h */,
+				450A8671229C29FC0055AC25 /* AFAutoPurgingImageCache.m */,
+				450A866D229C29FC0055AC25 /* AFImageDownloader.h */,
+				450A8674229C29FC0055AC25 /* AFImageDownloader.m */,
+				450A867B229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.h */,
+				450A8673229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m */,
+				450A8670229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.h */,
+				450A8675229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m */,
+				450A8676229C29FC0055AC25 /* UIButton+AFNetworking.h */,
+				450A866F229C29FC0055AC25 /* UIButton+AFNetworking.m */,
+				450A866C229C29FB0055AC25 /* UIImage+AFNetworking.h */,
+				450A866B229C29FB0055AC25 /* UIImageView+AFNetworking.h */,
+				450A8679229C29FC0055AC25 /* UIImageView+AFNetworking.m */,
+				450A867D229C29FC0055AC25 /* UIKit+AFNetworking.h */,
+				450A866E229C29FC0055AC25 /* UIProgressView+AFNetworking.h */,
+				450A8678229C29FC0055AC25 /* UIProgressView+AFNetworking.m */,
+				450A8677229C29FC0055AC25 /* UIRefreshControl+AFNetworking.h */,
+				450A867C229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m */,
+				450A867A229C29FC0055AC25 /* UIWebView+AFNetworking.h */,
+				450A8672229C29FC0055AC25 /* UIWebView+AFNetworking.m */,
+			);
+			path = "UIKit+AFNetworking";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,9 +507,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				450A865D229C29B40055AC25 /* AFURLSessionManager.m in Sources */,
+				450A8693229C29FC0055AC25 /* UIImageView+AFNetworking.m in Sources */,
+				450A861E229C27340055AC25 /* Geometry.m in Sources */,
+				450A868A229C29FC0055AC25 /* AFImageDownloader.m in Sources */,
 				450A8567229C24250055AC25 /* ViewController.m in Sources */,
+				450A8690229C29FC0055AC25 /* UIProgressView+AFNetworking.m in Sources */,
+				450A862A229C27340055AC25 /* Feature.m in Sources */,
+				450A8687229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m in Sources */,
+				450A868D229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m in Sources */,
+				450A8624229C27340055AC25 /* Properties.m in Sources */,
+				450A862F229C27520055AC25 /* MapViewController.m in Sources */,
+				450A8660229C29B40055AC25 /* AFNetworkReachabilityManager.m in Sources */,
+				450A865A229C29B40055AC25 /* AFURLRequestSerialization.m in Sources */,
+				450A8627229C27340055AC25 /* Metadata.m in Sources */,
+				450A8696229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m in Sources */,
+				450A8611229C27240055AC25 /* APIManager.m in Sources */,
+				450A867E229C29FC0055AC25 /* UIButton+AFNetworking.m in Sources */,
+				450A8666229C29B40055AC25 /* AFURLResponseSerialization.m in Sources */,
+				450A8634229C27620055AC25 /* EarthQuakes.m in Sources */,
 				450A8572229C24260055AC25 /* main.m in Sources */,
+				450A8657229C29B40055AC25 /* AFSecurityPolicy.m in Sources */,
+				450A8681229C29FC0055AC25 /* AFAutoPurgingImageCache.m in Sources */,
+				450A8621229C27340055AC25 /* GeoGraphic.m in Sources */,
+				450A8684229C29FC0055AC25 /* UIWebView+AFNetworking.m in Sources */,
 				450A8564229C24250055AC25 /* AppDelegate.m in Sources */,
+				450A8663229C29B40055AC25 /* AFHTTPSessionManager.m in Sources */,
+				450A860C229C27180055AC25 /* EarthQuakeTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +541,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				450A867F229C29FC0055AC25 /* UIButton+AFNetworking.m in Sources */,
 				450A857C229C24260055AC25 /* EarthQuakesTests.m in Sources */,
+				450A862B229C27340055AC25 /* Feature.m in Sources */,
+				450A8691229C29FC0055AC25 /* UIProgressView+AFNetworking.m in Sources */,
+				450A8630229C27520055AC25 /* MapViewController.m in Sources */,
+				450A8688229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m in Sources */,
+				450A865B229C29B40055AC25 /* AFURLRequestSerialization.m in Sources */,
+				450A8628229C27340055AC25 /* Metadata.m in Sources */,
+				450A8612229C27240055AC25 /* APIManager.m in Sources */,
+				450A8625229C27340055AC25 /* Properties.m in Sources */,
+				450A861F229C27340055AC25 /* Geometry.m in Sources */,
+				450A8622229C27340055AC25 /* GeoGraphic.m in Sources */,
+				450A868B229C29FC0055AC25 /* AFImageDownloader.m in Sources */,
+				450A860D229C27180055AC25 /* EarthQuakeTableViewCell.m in Sources */,
+				450A86A0229C2D4A0055AC25 /* TestViewController.m in Sources */,
+				450A8661229C29B40055AC25 /* AFNetworkReachabilityManager.m in Sources */,
+				450A868E229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m in Sources */,
+				450A8658229C29B40055AC25 /* AFSecurityPolicy.m in Sources */,
+				450A8664229C29B40055AC25 /* AFHTTPSessionManager.m in Sources */,
+				450A865E229C29B40055AC25 /* AFURLSessionManager.m in Sources */,
+				450A8694229C29FC0055AC25 /* UIImageView+AFNetworking.m in Sources */,
+				450A8685229C29FC0055AC25 /* UIWebView+AFNetworking.m in Sources */,
+				450A8682229C29FC0055AC25 /* AFAutoPurgingImageCache.m in Sources */,
+				450A8697229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m in Sources */,
+				450A8667229C29B40055AC25 /* AFURLResponseSerialization.m in Sources */,
+				450A8635229C27620055AC25 /* EarthQuakes.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +574,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				450A8680229C29FC0055AC25 /* UIButton+AFNetworking.m in Sources */,
 				450A8587229C24260055AC25 /* EarthQuakesUITests.m in Sources */,
+				450A862C229C27340055AC25 /* Feature.m in Sources */,
+				450A8692229C29FC0055AC25 /* UIProgressView+AFNetworking.m in Sources */,
+				450A8631229C27520055AC25 /* MapViewController.m in Sources */,
+				450A8689229C29FC0055AC25 /* AFNetworkActivityIndicatorManager.m in Sources */,
+				450A865C229C29B40055AC25 /* AFURLRequestSerialization.m in Sources */,
+				450A8629229C27340055AC25 /* Metadata.m in Sources */,
+				450A8613229C27240055AC25 /* APIManager.m in Sources */,
+				450A8626229C27340055AC25 /* Properties.m in Sources */,
+				450A8620229C27340055AC25 /* Geometry.m in Sources */,
+				450A8623229C27340055AC25 /* GeoGraphic.m in Sources */,
+				450A868C229C29FC0055AC25 /* AFImageDownloader.m in Sources */,
+				450A860E229C27180055AC25 /* EarthQuakeTableViewCell.m in Sources */,
+				450A8662229C29B40055AC25 /* AFNetworkReachabilityManager.m in Sources */,
+				450A868F229C29FC0055AC25 /* UIActivityIndicatorView+AFNetworking.m in Sources */,
+				450A8659229C29B40055AC25 /* AFSecurityPolicy.m in Sources */,
+				450A8665229C29B40055AC25 /* AFHTTPSessionManager.m in Sources */,
+				450A865F229C29B40055AC25 /* AFURLSessionManager.m in Sources */,
+				450A8695229C29FC0055AC25 /* UIImageView+AFNetworking.m in Sources */,
+				450A8686229C29FC0055AC25 /* UIWebView+AFNetworking.m in Sources */,
+				450A8683229C29FC0055AC25 /* AFAutoPurgingImageCache.m in Sources */,
+				450A8698229C29FC0055AC25 /* UIRefreshControl+AFNetworking.m in Sources */,
+				450A8668229C29B40055AC25 /* AFURLResponseSerialization.m in Sources */,
+				450A8636229C27620055AC25 /* EarthQuakes.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
